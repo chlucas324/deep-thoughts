@@ -6,6 +6,9 @@
   ## Description
   This is a social media application using the MERN stack.  
 
+  <img width="1184" alt="Screen Shot 2022-07-15 at 11 07 20 AM" src="https://user-images.githubusercontent.com/91441453/179252856-b22cb741-c820-46ec-b4ca-776cdcb8a9bc.png">
+
+
   Link to deployed app: https://deep-thoughts-social-media.herokuapp.com/
 
   ## Table of Contents
